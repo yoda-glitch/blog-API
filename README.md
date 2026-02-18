@@ -237,15 +237,6 @@ This API can be deployed to:
 - **Render** (Recommended for free tier)
 - **Heroku**
 
-### Environment Variables Required:
-
-```
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/blogdb
-JWT_SECRET=your_super_secret_key
-PORT=5000
-NODE_ENV=production
-```
-
 ## Testing the API
 
 You can test using:
